@@ -1,0 +1,14 @@
+required
+readonly
+main= number type data
+max;=number type data
+disabled
+min length= texttype data
+maxlength=text type data
+name=js dom
+id=js dom
+tab-index=tab lay
+pattern value= regular expression
+value= defalut value
+place holder=providing info user
+

@@ -1,0 +1,17 @@
+/* It seems like you might be looking to create a CSS file. Here's a basic template to get started: */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+p {
+    color: #666;
+    line-height: 1.5;
+}
